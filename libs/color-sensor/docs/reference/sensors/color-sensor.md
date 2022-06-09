@@ -9,7 +9,7 @@ sensors.color1.color();
 sensors.color1.light(LightIntensityMode.Ambient)
 ```
 
-## See slso
+## See also
 
 [on color detected](/reference/sensors/color-sensor/on-color-detected),
 [pause until color detected](/reference/sensors/color-sensor/pause-until-color-detected),
